@@ -1,0 +1,30 @@
+﻿[
+    {
+      "Previous": "",
+      "PreviousBtn": "",
+      "Next": "Page2",
+      "NextBtn": "Page1Next",
+      "Current": "Page1"
+    },
+    {
+      "Previous": "Page1",
+      "PreviousBtn": "Page2Pre",
+      "Next": "Page3",
+      "NextBtn": "Page2Next",
+      "Current": "Page2"
+    },
+    {
+      "Previous": "Page2",
+      "PreviousBtn": "Page3Pre",
+      "Next": "Page4",
+      "NextBtn": "page3Next",
+      "Current": "Page3"
+    },
+    {
+      "Previous": "Page3",
+      "PreviousBtn": "Page4Pre",
+      "Next": "",
+      "NextBtn": "",
+      "Current": "Page4"
+    }
+  ]
